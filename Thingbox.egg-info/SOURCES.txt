@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+Thingbox.egg-info/PKG-INFO
+Thingbox.egg-info/SOURCES.txt
+Thingbox.egg-info/dependency_links.txt
+Thingbox.egg-info/entry_points.txt
+Thingbox.egg-info/top_level.txt
+Thingbox.egg-info/zip-safe
+thingbox/__init__.py
